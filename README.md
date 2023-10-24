@@ -1,1 +1,3 @@
-![ss]("/public/img/1.jpg")
+![ss]("/public/img/bg2.jpg")
+![ss](/public/img/bg2.jpg)
+
